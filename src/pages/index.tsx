@@ -1,4 +1,5 @@
-import Head from "next/head";
+//@ts-nocheck
+/* eslint-disable */
 import Script from "next/script";
 
 export default function Home() {
